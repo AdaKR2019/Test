@@ -1,2 +1,3 @@
 wpis1
 nowyklient1
+uwaginowedoklienta1
