@@ -1,1 +1,3 @@
 plik2
+nowyklient1
+nowyklient2
